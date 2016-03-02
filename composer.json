@@ -1,0 +1,6 @@
+{
+    "require": {
+        "telegram-bot/api": "^2.2",
+        "mashape/unirest-php": "^3.0"
+    }
+}
