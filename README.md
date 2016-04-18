@@ -16,6 +16,12 @@ https://telegram.me/HryvnaTodayBot
 
 **/interbank** - курс на  міжбанку
 
+## Vote
+
+Проголосуйте за бота у ботсторі:
+
+https://storebot.me/bot/hryvnatodaybot
+
 ## References
 
 Інформація береться з офіційного API:
