@@ -1,7 +1,6 @@
-## Speak to me
+# Hryvna Today Telegram Bot
 
-Поговоріть із ботом Гривні Тудей:
-
+Поговоріть із ботом Гривні Тудей: 
 https://telegram.me/HryvnaTodayBot
 
 Наразі бот розповідає тільки про курс гривні до долара і навчений таким командам:
@@ -16,12 +15,14 @@ https://telegram.me/HryvnaTodayBot
 
 **/interbank** - курс на  міжбанку
 
+## How it works
+
+![Resources scheme](./resources.png)
+
 ## References
 
-Інформація береться з офіційного API:
-
+Інформація береться з офіційного API: 
 https://rapidapi.com/dontgiveafish/api/hryvna-today
 
-Код основного проекту також відкритий і знаходиться тут:
-
+Код основного проекту також відкритий і знаходиться тут: 
 https://github.com/dontgiveafish/hryvna-today
